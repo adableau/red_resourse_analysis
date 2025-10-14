@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CADA-VAE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSSM_new" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LDA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Nasm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/combine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nlp_util" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_analysis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataposition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/processdata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_analysis/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_analysis2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/word_pmi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/word_pmi/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/word_pmi/result" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/word_pmi/stop_dic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topiccomments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_analysis3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_analysis4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_analysis_education" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/datanew" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/edudata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weibo_analysis_new" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/paper2analysis" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>

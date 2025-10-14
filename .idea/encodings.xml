@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/LDA/上海红色资源_前100页.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/paper2analysis/weibo.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/word_pmi/1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/word_pmi/data/1zycombined_weibo_data.csv" charset="GBK" />
+  </component>
+</project>

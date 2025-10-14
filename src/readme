@@ -1,0 +1,18 @@
+
+
+------build the relation between danmu and summarization sentence -------------
+
+1. run 'prepocessor.py' to cut the data into time frames.
+run 'prepocessor_compare.py' to pre-pocess video data.
+
+
+2. Run 'similarity.py' to compute the similarity matrix between danmu and summarization sentence.
+
+3. Run 'alignment.py' to build the relation between danmu and summarization sentence. Key step.
+
+Dynamic Temporal Semantic Segmention
+
+
+4. Compute the
+
+计算方式修改
